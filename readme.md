@@ -1,6 +1,10 @@
+# <!--Intro au Big Data--> Data Science <a href="https://github.com/MiKL5/"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
 
-
-
-# [L’analyse pour les non Data Analyse](analysisIntro)
-
-# [Probailité et Statistiques pour la Data Science et Business](productivityAndStatistics4DataScienceAndBusiness)
+## **Business intelligence**
+### **Data Literacy (Culture de la donnée)**
+[L’analyse pour les non Data Analyse](analysisIntro)
+### **Data Science et Statistiques appliquées aux affaires**  
+[Probailité et Statistiques pour la Data Science et Business](productivityAndStatistics4DataScienceAndBusiness)
+<!-- ## **Intelligences artificielles**
+### **Algorithmes et structures de données**
+[Algorithme de recherche de chemin avec Python]() -->
