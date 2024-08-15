@@ -11,8 +11,8 @@
 8. [Définition](2_probability/definition)
 9. [Permutations](2_probability/permutation)
 10. [Combinaisons](2_probability/combinations)
-11. [Intersections, Unions et Evènements complémentaires](2_probability/Intersections,UnionsComplementaryEvents)
-12. Evènements Indépendants et dépendants
+11. [Intersections, Unions et Evènements complémentaires](2_probability/IntersectionsUnionsComplementaryEvents)
+12. [Evènements Indépendants et dépendants](2_probability/independentAndDependentEvents)
 13. Probabilités conditionnelles
 14. Régles d’additions et de multiplication
 15. Théories de Bayes
