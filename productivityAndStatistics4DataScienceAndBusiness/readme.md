@@ -14,8 +14,8 @@
 11. [Intersections, Unions et Evènements complémentaires](2_probability/IntersectionsUnionsComplementaryEvents)
 12. [Evènements Indépendants et dépendants](2_probability/independentAndDependentEvents)
 13. [Probabilités conditionnelles](2_probability/conditionalProbability)
-14. Régles d’additions et de multiplication
-15. Théories de Bayes
+14. [Régles d’additions et de multiplication](2_probability/AdditionAndMultiplicationRules)
+15. [Théories de Bayes](2_probability/BayesTheorem)
 ## **Les distributions de probalités**
 16. Distribution uniforme
 17. Distribution binomiale
