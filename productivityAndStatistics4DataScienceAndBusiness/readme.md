@@ -17,21 +17,22 @@
 14. [Régles d’additions et de multiplication](2_probability/AdditionAndMultiplicationRules)
 15. [Théories de Bayes](2_probability/BayesTheorem)
 ## **Les distributions de probalités**
-16. [Distribution uniforme](3_distributions/uniformDistribution)
-17. [Distribution binomiale]()
-18. [Distribution normale]()
-19. [Distribution normale - Formules et Z-scores]()
-20. [Scripts Dash]()
+16. [Intro](3_distributions/intro)
+17. [Distribution uniforme](3_distributions/uniformDistribution)
+18. [Distribution binomiale](3_distributions/binomialDistribution)
+19. [Distribution normale]()
+20. [Distribution normale - Formules et Z-scores]()
+21. [Scripts Dash]()
 <!-- ## **Les statistiques** -->
-<!-- 21. Définition -->
-<!-- 22. Échantillonnage -->
-<!-- 23. Théorème Centrale Limite -->
-<!-- 24. Erreur Type -->
-<!-- 25. Test Statistique -->
+<!-- 22. Définition -->
+<!-- 23. Échantillonnage -->
+<!-- 24. Théorème Centrale Limite -->
+<!-- 25. Erreur Type -->
+<!-- 26. Test Statistique -->
 <!--     1.  Exercice 1 -->
 <!--     2.  Exercice 3 -->
-<!-- 26. Erreurs de type 1 et 2 -->
-<!-- 27. Distribution de T-Student -->
+<!-- 27. Erreurs de type 1 et 2 -->
+<!-- 28. Distribution de T-Student -->
 <!-- ## **Analyse de la variance (ANOVA)** -->
 <!-- ## **La régression** -->
 <!-- ## **L'analyse du Khi carré** -->
