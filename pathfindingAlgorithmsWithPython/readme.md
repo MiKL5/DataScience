@@ -1,4 +1,4 @@
-# **Algo et recherche de chemin _(avec Python)_**
+# **Algo et recherche de chemin _(avec Python)_** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
 ## **Intro**
 1. Intro
 2. Déf d’un pb de robotique

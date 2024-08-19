@@ -1,4 +1,4 @@
-# **Probalité statistique pour la Data Science et Business** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Business intelligence" align="right" height="64px"></a>
+# **Probalité statistique pour la Data Science et Business** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
 ## **Les données**
 1. [Définition](1_data/definition)
 2. [Mesures des données](1_data/dataMeasurement)  
@@ -20,7 +20,7 @@
 16. [Intro](3_distributions/intro)
 17. [Distribution uniforme](3_distributions/uniformDistribution)
 18. [Distribution binomiale](3_distributions/binomialDistribution)
-19. [Distribution normale]()
+19. [Distribution normale](3_distributions/poissonLaw)
 20. [Distribution normale - Formules et Z-scores]()
 21. [Scripts Dash]()
 <!-- ## **Les statistiques** -->
@@ -34,5 +34,14 @@
 <!-- 27. Erreurs de type 1 et 2 -->
 <!-- 28. Distribution de T-Student -->
 <!-- ## **Analyse de la variance (ANOVA)** -->
+<!-- 29. Intro à l'ANOVA -->
+<!-- 30. ANOVA - Analyse de la Variance -->
+<!-- 31. Distribution-F -->
+<!-- 32. ANOVA à 2 facteurs -->
+<!-- 33. ANOVA avec 2 facteurs et Réplication -->
 <!-- ## **La régression** -->
+<!-- 34. Régression Linéaire -->
+<!-- 35. Exemple de Régression -->
+<!-- 36. Régression Multiple -->
 <!-- ## **L'analyse du Khi carré** -->
+<!-- 37. Analyse du Khi-Carré -->
