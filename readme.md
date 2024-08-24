@@ -2,9 +2,11 @@
 
 ## **Science des données**
 ### **Data Literacy (Culture de la donnée)**
-[L’analyse pour les non Data Analyse](analysisIntro)
+[L’analyse pour les non Data Analystes](analysisIntro)
 ### **Data Science et Statistiques appliquées aux affaires**  
 [Probailité et Statistiques pour la Data Science et Business](productivityAndStatistics4DataScienceAndBusiness)
+### **Langage R**
+[Premier Projet ](R/OC/firstProject)<kbd>_Wip_</kbd>
 ## **Intelligences artificielles**
 ### **Algorithmes et structures de données**
 [Algorithme de recherche de chemin avec Python](pathfindingAlgorithmsWithPython)
