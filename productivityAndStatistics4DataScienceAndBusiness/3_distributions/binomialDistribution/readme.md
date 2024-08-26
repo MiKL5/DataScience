@@ -10,7 +10,7 @@ Cela pourrait être
 Il s’agit d’une expérience aléatoire où le résultat peut être le succés ou l’échec.
 
 Dans une série d’épreuve _`n`_ suivra une distribution binaire tant que  
-a) La probabilité de succès _`p`_ est constante (si l’objet est équilibré) ;
+a) La probabilité de succès _`p`_ est constante (si l’objet est équilibré) ;  
 b) Les épreuves sont indépendantes les unes des autres.
 ### **Fonction de masse de la Probabilité Binomiale**
 Donne la proba d’observer _x_ succès dans _n_ épreuves.  
