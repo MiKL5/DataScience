@@ -1,1 +1,0 @@
-# Oremier projet en R via R Studio
