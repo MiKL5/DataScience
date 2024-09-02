@@ -1,0 +1,102 @@
+---
+title: "modifyData"
+author: "Mickael GAILLARD"
+format: html
+editor: visual
+---
+
+## **Modifier les données CSV**
+```{r}
+mixite_groupe_edf <- read.csv2("data/mixite-dans-le-groupe-edf.csv")
+
+mixite_groupe_edf[65 , 1] <- 65
+```
+Ou
+```{r}
+mixite_groupe_edf <- read.csv2("data/mixite-dans-le-groupe-edf.csv")
+
+mixite_groupe_edf[65 , "tri"] <- 65
+```
+Ou encore
+```{r}
+mixite_groupe_edf <- read.csv2("data/mixite-dans-le-groupe-edf.csv")
+
+mixite_groupe_edf$tri[65] <- 65
+```
+### Comment ne garder que les colonnes en français
+Rien avant la `,`, puis les colonnes listée par leurs noms.
+Cela économise de la mémoire en retirant les données de base.
+```{r}
+mixite_groupe_edf_fr <- mixite_groupe_edf[, c("tri", "annee", "perimetre_juridique", "perimetre_spatial", "indicateur", "valeur_de_l_indicateur", "unite", "methode_de_consolidation")]
+```
+Ou bien par position
+```{r}
+mixite_groupe_edf_fr <- mixite_groupe_edf[, c(1:3, 5, 7, 9, 10, 12)]
+```
+
+## **Modifier du texte avec RStudio**
+1. Séparez les phrases les unes des autres grâce à la fonction  str_split()  et en indiquant \\. comme motif de séparation. Mettez  simplify = TRUE  pour que les phrases apparaissent séparées.
+2. Extrayez les nombres contenus dans les phrases en utilisant la fonction  str_extract()  et  [:digit:]+  comme argument du motif. La fonction  str_extract_all()  permet d’obtenir tous les contenus correspondant au motif alors que  str_extract()  s’arrête à la première occurrence.
+3. Extrayez les mots fille et garçon pour savoir le genre concerné par le pourcentage. Attention, pour éviter la sensibilité à la casse, pensez à appliquer la fonction  str_to_lower()  pour tout mettre en minuscules.
+4. Concaténez les informations avec la fonction  str_c()  , en gardant le même nombre de colonnes et de lignes. Attention, les valeurs manquantes prennent le dessus sur les autres, il faut donc les remplacer par du vide.
+5. Les deux anti-slashs indiquent qu’il faut prendre le.comme un point et non comme le remplacement de n’importe quel caractère.
+```{r}
+install.packages(stringr)
+library(stringr)
+stereotype_genre_chiffres_cles_phrases <-
+str_split(
+stereotype_genre_chiffres_cles,
+"\\.",
+simplify = TRUE
+)
+
+str_c(
+stereotype_genre_chiffres_cles_phrases |>
+str_extract(pattern = "[:digit:]+%"),
+stereotype_genre_chiffres_cles_phrases |>
+str_to_lower() |>
+str_extract(pattern = "fille|garçon"),
+sep = " "
+)
+
+# les NA prennent le dessus sur les autres, il faut donc les remplacer par rien
+
+str_c(
+stereotype_genre_chiffres_cles_phrases |>
+str_extract(pattern = "[:digit:]+%") |>
+str_replace_na(""),
+stereotype_genre_chiffres_cles_phrases |>
+str_to_lower() |>
+str_extract(pattern = "fille|garçon") |>
+str_replace_na(""),
+sep = " "
+)
+```
+
+## **Modifier les images vie RStudio**
+### **Changer le format**
+Convertir en `JPG`
+```{r}
+logo_oc_jjpg <- image_convert(Logo_OpenClassrooms.png, format = "jpg")
+logo_oc_jpg
+
+```
+## **Sélectionnez une partie de l'image**
+```{r}
+centre_logo_oc <- image_crop(Logo_OpenClassrooms.png, "350X350+25+25")
+```
+### **Lire du texte dans une image**
+Pour cela, il fuat le package "`tesseract`".
+```{r}
+install.packages("tesseract")
+
+image_ocr(centre_logo_oc)
+
+cat(image_ocr(centre_logo_oc))
+```
+### **Incliner une image**
+```{r}
+image_flop(centre_logo_oc) |> 
+  image_ocr() |> 
+  cat()
+```

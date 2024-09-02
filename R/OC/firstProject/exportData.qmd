@@ -1,0 +1,28 @@
+---
+title: "exportData"
+author: "Mickeal GAILLARD"
+format: html
+editor: visual
+---
+
+## **Assigner tout objet à un nom**
+Ce titre doit être _informatif_, _compréhensible_ et en _snale_case_.  
+Quiquonque doit comprende en un coup d'oeuil.
+## **S'ssurer que les données soient**
+* Bien structurées ;
+* Alignées aux besoins.
+Par conséquent, il fuat être attentif au type de données pour éviter les bogues. 
+## **Adapter le format d'export aux besoins**
+
+## Enregistrer un texte
+```{r}
+write(x = stereotype_genre_chiffres_ces_phrases , "doc/stereotype_genre.txt")
+```
+## Exporter une image
+```{r}
+centre_logo_oc
+
+library(magick)
+
+image_write(image = centre_logo_oc , path = "img/centre_logo.png"
+```

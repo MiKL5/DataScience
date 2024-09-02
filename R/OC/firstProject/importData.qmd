@@ -1,0 +1,50 @@
+---
+title: "importData"
+author: "Mickael GAILLARD"
+format: html
+editor: visual
+---
+
+## **Importation du fichier CSV**
+
+```{r}
+mixite_groupe_edf <- read.csv("data/mixite-dans-le-groupe-edf.csv" , sep = ";")
+```
+
+**Fonction avec le séparateur à un `;`**
+
+```{r}
+mixite_groupe_edf2 <- read.csv2("data/mixite-dans-le-groupe-edf.csv")
+```
+
+## **Importer un fihier `.xlsx`**
+
+Pour utiliser la fonction `read_excel`, il faut imorter `readxl`. L'argument `sheet` permet de préciser le nom de la feuille à importer. Sinon, il prend la premier par défaut. Si il n'ya pas de précision sur les cases à travailler, il prend tout. L'argument `range` est la solution. Pour avoir les noms de colonnes, c'est l'argument col_names, pour créer le vecteur contenant ces noms.
+
+```{r}
+library(readxl)
+salaire <- read_excel("data/mrsd_2022Wages_table1.xlsx" , sheet="T1" , range="B10:F352" , col_names=("ssoc 2020" , "Occupation" , "Number Covered" , "Basic Wage_dollard" , "Gross Wage_dollard")
+```
+
+## **Importer les données d'un format non conventionnel**
+
+### Le web-scrapping
+
+```{r}
+install.packages("rvest")
+library(rvest)
+
+stereotype_genre <- read_html("https://www.keringfoundation.org/fr/articles/d'egal-a-egale/") |>
+html_elements("ul") |>
+html_text()
+stereotype_genre_chiffres_cles <- stereotype_genre[2]
+```
+
+### Importer une image
+
+```{r}
+install.packages("magick")
+library(magick)
+logo_oc <- image_read("img/Logo_OpenClassrooms.png")
+logo_oc
+```
