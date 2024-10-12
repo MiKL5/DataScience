@@ -1,4 +1,4 @@
-# **Les termes et concepts**
+# **Les termes et concepts** <a href="../"><img src="https://github.com/MiKL5/Business_Intelligence/raw/master/assets/bi.svg" alt="Business intelligence" align="right" height="64"></a>
 ## **Le big data**
 Avec l’avèneemnt du numérique, nous avons accés à de plus en plus de données.  
 Notament sur le comportement de nous, utilisateurs face aux produits, et que l’on développe de plus en plus d’outils utilisant en temps réel les données afin de toujours mieux personnaliser les expèriences utilisateurs.  
