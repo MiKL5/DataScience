@@ -1,4 +1,4 @@
-# <!--Intro au Big Data--> Data Science <a href="https://github.com/MiKL5/"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
+# <!--Intro au Big Data--> Data Science <a href="https://github.com/MiKL5/"><img src="https://github.com/MiKL5/Business_Intelligence/raw/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
 
 ## **Science des données**
 ### **Data Literacy (Culture de la donnée)**

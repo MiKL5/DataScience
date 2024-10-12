@@ -1,4 +1,4 @@
-# Et s’il n’y a pas de données
+# Et s’il n’y a pas de données <a href="../../"><img src="https://github.com/MiKL5/Business_Intelligence/raw/master/assets/bi.svg" alt="Business intelligence" align="right" height="64"></a>
 Un travail avec un sujet difficilement mesurable (communication ou activité hors ligne), on s’attend à ce que l’analyse n’apporte rien, car il y a cette impression de ne pas avoir de données à manipuler. Par reflexe, s’il n’y a pas de données à mettre dans un tableur, aucune analyse n’est possible.  
 Sauf qu’il est possible d’avoir un rasonement analytique sans chiffre et il est possible de construire les données.  
 ## Sans chiffre
