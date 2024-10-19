@@ -11,4 +11,9 @@ Le but de cette technique est de détecter les problèmes de qualité des donné
 * Les valeurs aberrantes ;
 * Les incohérences
 
-C’est un éléments essentiel de tout les projets de DS ou d’ML.  
+C’est un élément essentiel de tous les projets de DS ou du ML.  
+Processus d’analyse, de visu, de compréhension d’un ensemble de datas pour en extraire des infos et des modèles utiles.  
+Cette technique sert à identifier les caractéristiques & les relations importantes, contribuant au dév d’un meilleur modèle prédictif.  
+Et permet aussi de repérer les problèmes de qualité des données (cf. au-dessus).
+
+Ainsi, trouver les périodes d’achat les plus propices, les caractéristiques démographiques des consommateurs, les produits les plus vendus, et cætera.
