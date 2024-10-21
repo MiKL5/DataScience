@@ -13,4 +13,4 @@ E.g. :
 * transformer des chaînes de caractères en valeurs numériques.
 ## **Mise à l’échelle des données**
 Garantissant que les variables ont une échelle comparable ; simplifiant leur comparaison, est important.  
-Les algos tels que le [KNN](https://github.com/MiKL5/Artificial_Intelligence/docs/algo/unsupervisedLearningAlgorithms/KNN) et le [clustering](https://github.com/MiKL5/Artificial_Intelligence/docs/algo/unsupervisedLearningAlgorithms/clustering) utilisant des mesures de distance, l’étape est particulièrement cruciale.
+Les algos tels que le [KNN](https://github.com/MiKL5/Artificial_Intelligence/blob/master/docs/algo/unsupervisedLearningAlgorithms/KNN) et le [clustering](https://github.com/MiKL5/Artificial_Intelligence/blob/master/docs/algo/unsupervisedLearningAlgorithms/clustering) utilisant des mesures de distance, l’étape est particulièrement cruciale.
