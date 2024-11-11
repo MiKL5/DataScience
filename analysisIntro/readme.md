@@ -1,4 +1,4 @@
-# Introduction à l’analyse pour les non-data analystes <a href="../../"><img src="https://github.com/MiKL5/Business_Intelligence/raw/master/assets/bi.svg" alt="Business intelligence" align="right" height="64"></a>
+# Introduction à l’analyse pour les non-data analystes <a href="../"><img src="https://github.com/MiKL5/Business_Intelligence/raw/master/assets/bi.svg" alt="Business intelligence" align="right" height="64"></a>
 1. [Définition](intro/def)
 2. [Termes et concepts](intro/termsAndConcepts)
 3. [Et si l’on a pas de données](intro/ifThereIsNoData)

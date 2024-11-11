@@ -1,4 +1,4 @@
-# **Probabilité conditionnelle**
+# **Probabilité conditionnelle** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
 C’est le fait de valloir connaître la probabilité de l’évènement A, puisse que l’évènement B s’est produit.  
 Notée `P(A|B)` et dite `Probabilié d'A, sachant B`.  
 La ligne verticale est la manière de noter la probabilié conditionnelle.

@@ -1,4 +1,5 @@
-# **Le théorème de Bayes**
+# **Le théorème de Bayes** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
+
 Ce théorème est utiliser en médecine par des outils de diagnostique (cancer, …), et cetains business.
 
 Si les deux formules de proba conditionnelle sont reliées cela donne le théorème de Bayes.

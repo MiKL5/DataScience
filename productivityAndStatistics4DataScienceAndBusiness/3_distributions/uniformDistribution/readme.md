@@ -1,4 +1,4 @@
-# **Distributions uniformes**
+# **Distributions uniformes** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
 ## **Distgribution discrète uniforme**
 Le lancé d’un dé équilibré à 6 faces à 6 résultats discrets qui sont même probabilités.  
 On peut obtenir 1, 2, … mais pas 1,5.  

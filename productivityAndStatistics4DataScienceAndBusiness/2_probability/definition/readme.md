@@ -1,4 +1,4 @@
-# **La probabillité**
+# **La probabillité** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
 La possibilité entre 0 et 1 qu’un événement se produise (une pièce équilibrée à 0,5 ou 50% de probalité de tombée sur face).  
 Mathématiquement  
 ![probability](../../../assets/probability.png)  

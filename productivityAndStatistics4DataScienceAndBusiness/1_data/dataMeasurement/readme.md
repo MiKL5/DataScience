@@ -1,4 +1,4 @@
-# **La mesure des données**
+# **La mesure des données** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
 ## **Les niveaux de mesure ou types de variable**
 ### Types de valeurs qualitatives ou catégorielles
 #### **Variables nominales**

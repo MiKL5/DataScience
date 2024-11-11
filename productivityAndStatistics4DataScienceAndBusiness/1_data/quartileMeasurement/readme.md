@@ -1,4 +1,4 @@
-# **La mesure des quartiles**
+# **La mesure des quartiles** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
 Les _quartiles_ et les _interquartiles (EI)_ sont une autre manière d’écrire les données.  
 Ils ont l’avantages de considéré chauqe point de données ; ne pas agréger les points.  
 ```sql

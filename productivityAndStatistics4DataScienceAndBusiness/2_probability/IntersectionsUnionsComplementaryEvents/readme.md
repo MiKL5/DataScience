@@ -1,4 +1,4 @@
-# **Intersections, unions et événements complémentaires**
+# **Intersections, unions et événements complémentaires** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
 ## **Intersections**
 En probalité, une intersection `∩` décrit l’ensemble où deux événements se produisent tous les deux.
 

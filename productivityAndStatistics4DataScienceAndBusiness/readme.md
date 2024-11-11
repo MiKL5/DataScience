@@ -20,28 +20,29 @@
 16. [Intro](3_distributions/intro)
 17. [Distribution uniforme](3_distributions/uniformDistribution)
 18. [Distribution binomiale](3_distributions/binomialDistribution)
-19. [Distribution normale](3_distributions/poissonLaw)
-20. [Distribution normale - Formules et Z-scores]()
-21. [Scripts Dash]()
+19. [Distribution de Poisson](3_distributions/poissonLaw)
+<!-- 20. [Distribution normale]() -->
+<!-- 21. [Distribution normale - Formules et Z-scores]() -->
+<!-- 22. [Scripts Dash]() -->
 <!-- ## **Les statistiques** -->
-<!-- 22. Définition -->
-<!-- 23. Échantillonnage -->
-<!-- 24. Théorème Centrale Limite -->
-<!-- 25. Erreur Type -->
-<!-- 26. Test Statistique -->
+<!-- 23. Définition -->
+<!-- 24. Échantillonnage -->
+<!-- 25. Théorème Centrale Limite -->
+<!-- 256. Erreur Type -->
+<!-- 27. Test Statistique -->
 <!--     1.  Exercice 1 -->
 <!--     2.  Exercice 3 -->
-<!-- 27. Erreurs de type 1 et 2 -->
-<!-- 28. Distribution de T-Student -->
+<!-- 28. Erreurs de type 1 et 2 -->
+<!-- 29. Distribution de T-Student -->
 <!-- ## **Analyse de la variance (ANOVA)** -->
-<!-- 29. Intro à l'ANOVA -->
-<!-- 30. ANOVA - Analyse de la Variance -->
-<!-- 31. Distribution-F -->
-<!-- 32. ANOVA à 2 facteurs -->
-<!-- 33. ANOVA avec 2 facteurs et Réplication -->
+<!-- 30. Intro à l'ANOVA -->
+<!-- 31. ANOVA - Analyse de la Variance -->
+<!-- 32. Distribution-F -->
+<!-- 33. ANOVA à 2 facteurs -->
+<!-- 34. ANOVA avec 2 facteurs et Réplication -->
 <!-- ## **La régression** -->
-<!-- 34. Régression Linéaire -->
-<!-- 35. Exemple de Régression -->
-<!-- 36. Régression Multiple -->
+<!-- 35. Régression Linéaire -->
+<!-- 36. Exemple de Régression -->
+<!-- 37. Régression Multiple -->
 <!-- ## **L'analyse du Khi carré** -->
-<!-- 37. Analyse du Khi-Carré -->
+<!-- 38. Analyse du Khi-Carré -->

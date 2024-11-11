@@ -1,4 +1,4 @@
-# **Introduction**
+# **Introduction** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
 Généralement, une distribution décrit tous les résultats probables d’une variable.
 
 Dans une distribution discrète, la somme de toutes les probabilités individuelles doit être égtal à 1.

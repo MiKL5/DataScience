@@ -1,5 +1,4 @@
-# **Régles d’additions et de multiplication**
-## **La règle d’addition**
+## **La règle d’addition** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
 La proba qu’A se _ou_ que B se produise est égale à la proba d’A plus celle de B, moins celle d’A et B.
 ```js
 P(A ∪ B) = P(A) + P(B) - P(A ∩ B)

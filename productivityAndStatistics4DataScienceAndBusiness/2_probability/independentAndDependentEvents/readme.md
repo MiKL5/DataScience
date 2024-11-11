@@ -1,4 +1,4 @@
-# **Évènements indépendants et dépendants**
+# **Évènements indépendants et dépendants** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
 ## **Les évèneemnts indépendants**
 Une série d’évènements indépendants _se produit lorsque le résultat d’un évènement n’a pas d’effet sur le résultat d’un autre_.
 

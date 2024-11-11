@@ -1,4 +1,4 @@
-# **Les combinaisons**
+# **Les combinaisons** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
 Les _**arrangements non ordonnés**_ d’objets sont des _**combinaisons**_.  
 
 Les nombre de combinaisons d’un ensemble <kbd>`n`</kbd> objets dont <kbd>`k`</kbd> sont prix au même moment est donnée par la formule 

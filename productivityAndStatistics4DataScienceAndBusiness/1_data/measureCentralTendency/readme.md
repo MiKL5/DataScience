@@ -1,4 +1,4 @@
-# **Mesure de la tendance centrale**
+# **Mesure de la tendance centrale** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
 C’est un type de mesure.  
 Il y a deux types de mesures centrales.  
 Connaître le rendement moyen, fait appel aux _mesures de la tendance centrale_.

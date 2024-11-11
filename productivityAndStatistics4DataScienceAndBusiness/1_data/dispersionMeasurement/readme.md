@@ -1,4 +1,4 @@
-# **Les mesures de dispersion**
+# **Les mesures de dispersion** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
 Il y a trois principales manières, l’_étendue_, la _variance_ et l’_écart-type_.  
 ```sql
 9 10 11 12 15 16 19 19 21 23 28 30 33 34 36 39

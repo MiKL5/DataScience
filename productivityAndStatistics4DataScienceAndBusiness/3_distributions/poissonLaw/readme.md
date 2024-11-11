@@ -1,5 +1,5 @@
-# **Distribution de Poisson (loi de Poisson)**
-La _**distribution de Poisson**_ _considère le nombre de succès par toue unité continue_ tel que l’unité de temps ou de distance _au cours de nobreuuses unités_.
+# **Distribution de Poisson (loi de Poisson)** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
+La _**distribution de Poisson**_ _considère le nombre de succès par unité continue_ (e.g. l’unité de temps, la distance, etc) _au cours de nobreuuses unités_.
 
 Le calcul de la fonction de masse de probabilité ou loi de probabilité de Poisson commence par une valeur moyenne attendue.
 <a href="#"><div align="center"><img src="../../assets/poissonDistribution.jpg" height="96"></div></a>

@@ -1,4 +1,4 @@
-# **Permutations et Arrangements**
+# **Permutations et Arrangements** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
 ## **La permutation**
 C’est une disposition des objets dans un certain ordre.  
 Cela perle de réarangement d’objets. Avec ‘A, B, C’, il y a six permutations possibles.  

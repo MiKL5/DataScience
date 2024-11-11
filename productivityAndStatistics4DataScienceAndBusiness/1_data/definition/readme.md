@@ -1,4 +1,4 @@
-# **Qu’est-ce que les données ?**
+# **Qu’est-ce que les données ?** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
 Les données sont des observations collectées sur un large éventail de choses.  
 Il y a deux principales formes de données : 
 * Les données continues (le cours de l’action, prix d’une maison ou l’âge d’une personne).  
