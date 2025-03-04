@@ -11,7 +11,7 @@ Les API de matplolib permettent aux développeurs d’intégrer des graphiques d
 De deux façons : via la POO ou le module Pyplot.
 ### **En POO**
 Cette approche peremt de créer les figures et axes explicitement. En suite, sont appelées les méthodes associées pour tracer les graphiques.
-```py
+<!-- ```py
 import matplolib.pyplot as plt
 
 # Création de la figures et des axes
@@ -30,10 +30,10 @@ axlegend()
 
 # Affichage de graphique
 plt.show()
-```
+``` -->
 ### **Avec Pyplot**
 Ce module a une interface analogue à `Matlab`, nonobstant, la création de graphique est plus simple et concise.
-```py
+<!-- ```py
 import matplolib.pyplot as plt
 
 # Traçage des données
@@ -49,7 +49,7 @@ plt.legend()
 
 # Affichage du graphique
 plt.show()
-```
+``` -->
 ## **Les principaux composants de Matplolib**
 Elle repose sur plusieurs composants clés faciliant la création de graphiques et la visualisation de grande qualité.
 ### **La figure**
@@ -86,3 +86,21 @@ Ces repères servent à **spécifier les positions** et les étiquettes des marq
 `y = np.sin(x)`
 
 Les données sont tracés se font par `plp.plot(x , y)`. Des **repères personnalisés** peuvent être définis avec plt.xticks( [ 0 , np/pi , 2*np.pi] , ['0' , '$\pi$' , '2$\pi$'] ). -->
+<!-- ## **Comment l’utiliser**
+L’objectif de cette bibliothèque Python est de “simplifier les tâches simples et permettre ce qui est compliqué”. En quelques lignes de code, il est possible de générer des **nombreux types de visualisation**. Le module `matplotlib.pyplot` fournit une interface similaire à Matlab.
+### **Importer une bibliothèque**
+Un script Python l’importe par l’**instruction `import matplotlib.pyplot as plt`**. L’alias est attribué par convention. Les différentes fonctions et constantes du module se nommeront avec l’**alias puis le nom** (e.g. `plt.figure()`).
+### **Créer des figures et axes**
+Par la fonction `pit.figure()`. Pour les axes, la méthode `add_subplot()` de la figure ou fonction `plt_subplot()`.
+### **Tracer les données**
+Les fonctions de **traçage de Matplotlib** vont **représenter vos données**. 
+### **Personnaliser le graphique**
+Elle est complète et permet l’ajout de titre, légende, étiquette d’axe, couleurs, stylede ligne,… -->
+## **Que permet Matplotlib ?**
+Elle permet une grande variété de visualisations de données.  
+Il est possible de faire des graphiques linéaire, à barre, histogrammes, nuages de points, graphiques en 3D.
+## **Pourquoi est-elle essentielle en IA et en science des données ?**
+C’est une référence en visualisation de données en Machine Learning ; permettant de construire beaucoup de visualisation pluridimentionnelles. La flexibilité permet visuellement d’explorer les modèles de données et identifier les schémas et tendances.  
+Les chercheurs en IA et les data scientists utilisent massivement Matplotlib ; les aidant à visualiser les datasets et évaluer les performances des modèles d’IA. Et peuvent transformer de larges ensembles de données complexes avec des visualisations claires ; leurs permettant aussi de mieux communiquer à propos des résultats.
+<!-- ## **Comment s’y former ?**
+Ca syntaxe est lourdes, donc complexe. Le manque de ressources fiables n'aide pas à l'apprendre comme autodidacte. -->
