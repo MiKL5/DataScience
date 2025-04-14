@@ -1,4 +1,4 @@
-# **SQL**
+# **SQL** <a href="https://github.com/MiKL5/bi/"><img src="https://github.com/MiKL5/Business_Intelligence/raw/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
 SQL signifie Structured Query Language. Ce langage de programmation sert à la manipulation des données et RDBMS.  
 Ce langage de requête structuré comprend 5 types de commandes.
 1. Le **DDL** : **Data Definition Language**.  
