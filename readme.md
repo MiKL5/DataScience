@@ -3,7 +3,7 @@
 ## **Science des données**
 ### **Data Literacy (Culture de la donnée)**
 [Les bases de l’analyse](analysisIntro)
-### **Data Science et Statistiques appliquées aux affaires**  
+### **Data Science et Statistiques<!-- appliquées aux affaires -->**  
 [Probailité et Statistiques pour la Data Science et Business](productivityAndStatistics4DataScienceAndBusiness)  
 [Numpy](https://github.com/mikl5/machineLearning)  
 <!-- [Analyse et la visualistion de données avec Python]() -->
