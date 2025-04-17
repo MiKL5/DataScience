@@ -35,7 +35,7 @@ flowchart LR
     classDef rollback    fill:#e62f00,stroke:#10,    stroke-width: 0px;
     classDef transaction fill:#e62f00,stroke:#10,    stroke-width: 0px;
     classDef constraint  fill:#e62f00,stroke:#10,    stroke-width: 0px;
-    classDef dql         fill:#444   ,stroke:#111,   stroke-width:10px;
+    classDef dql         fill:#222   ,stroke:#333,   stroke-width:10px;
     classDef select      fill:#111   ,stroke:#10,    stroke-width: 0px;
     classDef dcl         fill:#6d3def,stroke:#3d2eb2,stroke-width:10px;
     classDef grant       fill:#3d2eb2,stroke:#10,    stroke-width: 0px;
