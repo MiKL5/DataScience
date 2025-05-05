@@ -1,4 +1,4 @@
-# **Visualisation et exploration des données**
+# **Visualisation et exploration des données**<a href="../"><img src="../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 La visualisation de données est un outil puissant afin de les étudier et les comprendre.  
 Elle permet l’identification des modèles, des tendances et des relations des données. Aussi des valeurs aberrantes, les anomalies et la distribution des données.
 Parmi les plus typiques, il y a :

@@ -1,4 +1,4 @@
-# La séléction d’indicateurs pour suivre l’impact
+# La séléction d’indicateurs pour suivre l’impact<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 Pour commencer, il faut choisir les indicateurs permettant le suivre. C’est assez analogue à la leçon précédante.  
 Ces idicateurs doivent êtres 
 * facilement accessibles :   

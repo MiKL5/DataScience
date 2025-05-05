@@ -1,4 +1,4 @@
-# **Analyse**
+# **Analyse**<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 Etude minutieuse et précise permettant de dégager les éléments constituant une ensemble pour l’expliquer.  
 Donc, décomposer en sous-éléments afin de mieux comprendre et expliquer le problème.  
 C’est une manière de penser consistant à étudier de façon logique pour prendre du recul et mieux le comprendre et utiliser les bons outils dans le but de construire une réponse.  

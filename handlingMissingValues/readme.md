@@ -1,4 +1,4 @@
-# **Gestion des valeurs manquantes**
+# **Gestion des valeurs manquantes**<a href="../"><img src="../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 Si l’ensemble est incomplet ; l’ensemble rend les prévisions moins précises. Les valeurs manquantes sont traitées avant l’analyse.  
 Parmi les méthodes, il y a : 
 * la suppression ;

@@ -1,4 +1,4 @@
-# Nettoyer proprement une tableur
+# Nettoyer proprement une tableur<a href="../"><img src="../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 Il faut éviter de supprimer les donnnées de bases (celles dont on part initialement), donc il faut prendre le temps de réfléchir aux lignes et colonnes que l’on supprime.  
 Si les données de bases ont plus de lignes et de colonnes ce dont on a besoin, il faut les mettre dans une feuille séparée. Cela permet de revenir aux données de bases si un résultat semble bizarre et s’assurer qu’elles n’ont pas était changer par erreur.  
 Les données initiales doivent rester intactes et dans un onglet dédié.  

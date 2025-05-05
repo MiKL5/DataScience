@@ -1,4 +1,4 @@
-# Présenter l’analyse
+# Présenter l’analyse<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 La présentation doit être la plus efficace possible ; les interlocuteurs doivent en tirer le maximum de bénéfices.  
 
 Que ce soit par courriel, diaporama ou à l’oral, il faut s’assurer que l’audience ne passe pas à côté de la conclusion, ni par manque d’attention, ni par souci d’incompréhension.

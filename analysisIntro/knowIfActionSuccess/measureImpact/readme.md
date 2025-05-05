@@ -1,4 +1,4 @@
-# Les méthodes simples pour mesurer son impact
+# Les méthodes simples pour mesurer son impact<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 La méthode permet d’interpréer la courbe de l’indicateur ou sa valeur afin d’en tirer une conclusion.  
 Ce résonnement est souvent utiliser : 
 L’action à eu un comportement B, associé à une valeur beta de l’indicateur. Si je n’avais pas mis en place l’action, la cible aurait eu un comportement A, associé à une valeur alpha de l’indicateur. L’impact de l’action et l’impact entre les valeurs alpha et beta.  

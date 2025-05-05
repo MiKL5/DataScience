@@ -1,4 +1,4 @@
-# Les objectifs de mon département
+# Les objectifs de mon département<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 Pour cela, il faut faire le lien entre mes actions et la performance globale de l’entreprise. D’où l’utilité de l’entonnoir de conversion et le parcours client.
 ## L’entonnoir de conversion
 IL s’agit de représentation des grandes étapes par lesquelles les utilisateurs passent.  

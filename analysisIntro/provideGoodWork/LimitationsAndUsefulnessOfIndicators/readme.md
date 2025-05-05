@@ -1,4 +1,4 @@
-# Limites et utilité des indicateurs
+# Limites et utilité des indicateurs<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 Il est crucial de garder du recule par rapport à eux et ne pas les augmenter au détriment des actions.  
 Ils donnent une vision partielle de l’impact et peut donner une vision erronée sans regard critique (e.g. les publications amusantes généreront plus de likes et partages, mais n’interessent pas).  
 Garder à l’esprit les bonnes cible (un produit pour les parent ne doit pas avoir de publication ciblant les moins de vingt-cinq ans).  

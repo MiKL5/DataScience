@@ -1,4 +1,4 @@
-# Déterminer l’action à mener
+# Déterminer l’action à mener<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 Il faut commencer par bien identifer la cible. Sur qui faut-il avoir un impact et quel changement de comportement faut-il ?  
 Puis, la forme (canal) de l’action. S’adresser directment aux utilisateurs (par e-mail, d’un texte sur le site, un bandeau, un article de post sur les réseaux sociaux, …). Ou les affecter directement (en modifiant l’ergonomie du site. ajotant une option, modifiant la stucture des e-mails).  
 La temporalité de l’action (ponctuelle, répétée ou changeemnt pérenne).  

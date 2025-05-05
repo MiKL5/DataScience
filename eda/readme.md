@@ -1,4 +1,4 @@
-# **Techniques d’Analyse Exploratoire de Données**
+# **Techniques d’Analyse Exploratoire de Données**<a href="../"><img src="../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 
 L’EDA (Exploratory Data Analysis) requière : 
 * La compréhension des données par l’utilisation de l’analyse de la distribution ;

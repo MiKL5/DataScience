@@ -1,4 +1,4 @@
-# Mesure de la performance
+# Mesure de la performance<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 Cela permet de constater son évolution (amélioration ou régréssion), de détecter des problèmes et y remédier plus aisément et prendre du recul par rapport à l’activité et réfléchir à ce que l’on fait et pourquoi.  
 
 Le plus simple est de créer dans un tableur un fichier de suivi regroupant les indicateur, les présentants de manière à rapidement conclure ce qui se passe.  

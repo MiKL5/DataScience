@@ -1,4 +1,4 @@
-# Revenir au problème
+# Revenir au problème<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 L’analyse consiste souvant à aborder un problème assez large, il est facile d’être perdu dans des ramifications, des pistes, … Revenir au problème permet une meilleure gestion du temps
 * En se focalisant aux éléments d’analyse ayant le plus d’impact à la conclusion finale ;
 * identifier s’il l’on faut fausse route, ou que les infos rechrchés sont hors sujet ;

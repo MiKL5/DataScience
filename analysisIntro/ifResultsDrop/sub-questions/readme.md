@@ -1,4 +1,4 @@
-# Répondre aux sous question
+# Répondre aux sous question<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 À chaque sous-question, il faut chercher les indicateurs pertinants à collecter.  
 Généralement, pour les sous-questions au parcours client, un seul indicateur est retenu par sous-question, puis uen ou deux analyses maxi, en distinguant l’anlyse principale et l’analyse secondaire (afin de contrôler le biais) ; l’intérêt étant d’obtenir une réponse claire.  
 Le fait de multiplier les analyses pour une même sous-question, et un risque d’analyses des éléments ne répondants pas à la question initiale. E.g. Si le CA baisse de 15%, il faut observer les pays afin de voir lequel est le plus à la baisse.  

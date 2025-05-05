@@ -1,4 +1,4 @@
-# Mesurer l’impact avec la méthode statistique A/B test
+# Mesurer l’impact avec la méthode statistique A/B test<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 L’A/B test incobe de diviser la population en deux groupes. Le premier groupe est visé par l’action. La groupe A donne une valeur de résultat, Quant au groupe B, la valeur de comparaison.  
 La clé est de créer deux groupe aléatoirement.  
 - _Toute sélection créant un biais, il est impossible de choisir les volontaire, les premiers arrivés, la première moitiée de l’alphabet._  

@@ -1,4 +1,4 @@
-# Comprendre l’objectif de l’entreprise
+# Comprendre l’objectif de l’entreprise<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 La première est de vendre un service ou un produit. La seconde est de répondre au besoin auquel l’entreprise répond grâce au produit ou service. 
 En résumé, répondre à l’utilisateur en vendant un service ou un produit. 
 

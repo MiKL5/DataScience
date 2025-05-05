@@ -1,4 +1,4 @@
-# Choisir la méthode de mesure
+# Choisir la méthode de mesure<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 ## Comparaison
 _Valeurs initiale_ et _valeur passée_ sont analogues car elles sont assez faciles à mettre en place, notamment à posteriori.  
 

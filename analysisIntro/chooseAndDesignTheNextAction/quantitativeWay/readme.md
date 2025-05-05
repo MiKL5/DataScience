@@ -1,4 +1,4 @@
-# Identifier les pointsde fictions quantitativement
+# Identifier les pointsde fictions quantitativement<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 Cela permet de savoir où perd t-on le plus de client, ces endroit sont les points de friction.  
 
 À chaque étape, il faut mesurer le taux de conversion des clients.  

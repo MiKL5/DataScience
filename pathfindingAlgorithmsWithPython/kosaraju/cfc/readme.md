@@ -1,0 +1,4 @@
+# **Les composantes fortements connexes (CFC)** <a href="../../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
+Avec la théorie des graphes, une composantes fortement connexe d’un graph orienté ‘G’ est un sous-graphe de ‘G’ ayant la propriété (maximal pour celle-ci) : “pour tout couple (u , v) de noeuds dans ce sous-graphe, il y a un chemin d’U à V. Chaque sommets sont des racines.
+
+Pour qu’un graphe soit fortement connexe, il doit être formé d’une uniuqe composante fortement connexe. Généralement, un graphe se décompose de façon unique comme union de composantes fortement connexes 2 à 2 disjointes.

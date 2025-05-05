@@ -1,4 +1,4 @@
-# Confirmer les problèmes
+# Confirmer les problèmes<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 Les points de frictions étants connus, il faut évaluer leur importance avec des chiffre.  
 Moins les chiffres ont été utilisés précédament, plus cette étape est importante, afin de ne pas dépenser d’energie avec un petit ou faux problème.  
 Combien d’utilisateurs sont concernés par le problème ?

@@ -1,4 +1,4 @@
-# Vérifier les chiffres
+# Vérifier les chiffres<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 Il est indispensable de vérifier les chiffres au long de l’analyse ; il y a des très nombreuses sources d’erreur entre ce que l’on veut et le résultat.  
 Il peut y avoir :
 * Des données incorrectes (mauvais choix de la source) ;

@@ -1,4 +1,4 @@
-# Identifier la cible
+# Identifier la cible<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 Toute action vise un spécifiquement un groupe de personnes.  
 L’action est mise en place car on est insatisfait si personne ne fait rien. Les personnes auront un comportement ayant un effet délétaire sur l’entreprise.  
 Qui sont les personnes par l’action ? | Quels sont les changemnt de comportement attendus ?

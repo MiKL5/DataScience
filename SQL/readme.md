@@ -1,4 +1,4 @@
-# **SQL** <a href="https://github.com/MiKL5/bi/"><img src="https://github.com/MiKL5/Business_Intelligence/raw/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
+# **SQL** <a href="https://github.com/MiKL5/bi/"><img src="../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 SQL signifie Structured Query Language. Ce langage de programmation sert à la manipulation des données et RDBMS.  
 Ce langage de requête structuré comprend 5 types de commandes.
 1. Le **DDL** : **Data Definition Language**.  
@@ -96,9 +96,10 @@ flowchart LR
     class F1 grant
     class F2 remove
 ```
-<hr>
+<br><br>
 
->Sujets connexes  
+<h2 align="center"><b>🔗  Sujets connexes</b></h2></div>
+
 [Transact SQL et SQL Server](https://github.com/MiKL5/TSQL/)  
 [PostreSQL](https://github.com/MiKL5/PostgreSQL/)  
 [SQL vs Transact SQL vs Procedural SQL](https://github.com/MiKL5/TSQL/docs/comprae)

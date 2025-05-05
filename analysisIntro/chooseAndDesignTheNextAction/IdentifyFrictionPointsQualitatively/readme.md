@@ -1,4 +1,4 @@
-# Identifier les points de friction qualitativement
+# Identifier les points de friction qualitativement<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 Avant de concevoir analytiquement une action, la meilleure manière est de voir où y aurait il des points de friction dans l’accès des clients au services. Le but étant d’agir là ou l’entreprise n’est pas performante.  
 
 Il y a plusieurs outils :

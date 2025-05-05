@@ -1,4 +1,4 @@
-# **Probalité statistique pour la Data Science et Business** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
+# **Probalité statistique pour la Data Science et Business** <a href="../"><img src="../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 ## **Les données**
 1. [Définition](1_data/definition)
 2. [Mesures des données](1_data/dataMeasurement)  

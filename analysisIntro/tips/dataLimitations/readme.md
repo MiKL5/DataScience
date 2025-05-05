@@ -1,4 +1,4 @@
-# Connaître les limites des données
+# Connaître les limites des données<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 Il est indispensable de connaître les limites des données afin de maîtriser l’incertitude de l’analyse ; les résultats ne sont jamais parfaitement fiables.  
 
 Il y a plusieurs sources d’imprécision :

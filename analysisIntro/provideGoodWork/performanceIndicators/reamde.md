@@ -1,4 +1,4 @@
-# Sélectionner les indicateurs de performance
+# Sélectionner les indicateurs de performance<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 Une fois l’objectif établie, il faut les chiffres nommés métriques (KPI en anglais, pour indicateur de performance).  
 Le défi est de trouver les indicateurs qui sont vraiment parlants, parmi la multitude (e.g. sur un réseau social il y a le nombre d’abonnés, de likes, de vues (d’impressions), taux d’engagement des users avec les publications, le nombre d’interaction, de repartage, de clics…). Il faut donc s’attaché à la pertinence de ces KPI et comprendre les infos apportées. Pour cela, il faut partir de l’objectif et observer par quel biais le mesurer et dresser un inventaire des KPI.  
 Lors de l’évangélisation, le nombre d’impressions (vues) est plus pertinent, les likes et engagements confortent.  

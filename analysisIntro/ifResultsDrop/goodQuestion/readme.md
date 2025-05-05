@@ -1,4 +1,4 @@
-# Poser la bonne question
+# Poser la bonne question<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 Les questions floues, trop vastes ou mal posées diriges vers des analyses inutiles.  
 Pourquoi les résultats baissent est très mauvaise ; ont ne dit pas quel résultat, quel baisse (est elle plsu globale ?).  
 EN revanche. Pourquoi le nb de vantes d’accessoires baisse ces trois dernieres semaines ? Ou, pourquoi le CA de ce mois de juillet est inférieur à celui du l’année passée ? sont bonnes. Car elles permettent des analyses plus précisent du fait que les réponses sont plus concrètes.  

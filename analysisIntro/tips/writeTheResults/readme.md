@@ -1,4 +1,4 @@
-# Mettre l’analyse par écrit
+# Mettre l’analyse par écrit<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 Pour cela, il est conseillé d’avoir un onglet dans le tableur dévolu à la partie écrite de l’analyse.  
 
 En premier, il faut y mettre la question initiale, ainsi que les éventuels éléments de contexte qui vont avec.  

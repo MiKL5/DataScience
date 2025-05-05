@@ -1,4 +1,4 @@
-# Adapter la modélisation pour estimer l’impact d’un nouveau produit
+# Adapter la modélisation pour estimer l’impact d’un nouveau produit<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 ```mermaid
 mindmap
 root((**Problème initial**

@@ -1,4 +1,4 @@
-# **Distribution binomiale** <a href="../"><img src="https://github.com/MiKL5/BI/blob/master/assets/bi.svg" alt="Data science" align="right" height="64px"></a>
+# **Distribution binomiale** <a href="../"><img src="../../../assets/bi1.png" alt="Data science" align="right" height="64px"></a>
 ## **Distribution binomiale discrète**
 **Binomiale**signifie qu’il y a 2 résultats distincts et mutuellement exlusifs d’une épreuve.  
 Cela pourrait être 

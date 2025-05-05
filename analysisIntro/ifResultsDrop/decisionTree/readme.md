@@ -1,4 +1,4 @@
-# L’arbre décisionnel
+# L’arbre décisionnel<a href="../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 ```mermaid
 mindmap
   root((**Pourquoi mon CA de juillet est-il inférieur à celui de même moi l’an passé**))

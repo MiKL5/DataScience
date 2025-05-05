@@ -1,4 +1,4 @@
-# **Matplotlib**
+# **Matplotlib** <a href="../../../"><img src="../../../assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 La visualisation de données (data visualiation ou data viz) est une composante essentielle de l’analyse de données moderne ; les informations complexes sont représentées visuelement mettant en évidence des schémas, des tendances et des relations cachées.  
 C’est l’un des outils les plus populaires en data viz.
 ## **Définition**
