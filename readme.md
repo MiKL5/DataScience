@@ -4,10 +4,10 @@
 [Analyse des données des universités américaines](https://github.com/MiKL5/Python/blob/master/Anaconda/usUniversities)
 ___
 
-<div align="center"><a href="../"><img src="assets/zFKesVad0pW5X0jtsdSj--4j3ez.png" height="300" /></a></div>
+<div align="center"><a href="more"><img src="assets/zFKesVad0pW5X0jtsdSj--4j3ez.png" height="300" /></a></div>
 
 ## **Langage R** <a href="https://github.com/MiKL5/"><img src="https://github.com/MiKL5/MiKL5/raw/master/assets/r.svg.png" alt="Langage R" align="right" height="32px"></a>
-[Premier projet](R/OC/firstProject)
+[Premier projet](R_language/OC/firstProject)
 
 <div align="center"><hr><h2>🔗 Disciplines connexes</h2></div>
 
