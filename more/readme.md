@@ -3,7 +3,7 @@
 # **📊 Data Science et Statistiques<!-- appliquées aux affaires -->**
 [Probailité et Statistiques pour la Data Science et Business](../productivityAndStatistics4DataScienceAndBusiness)  
 
-[Numpy](https://github.com/MiKL5/machineLearning)
+[Numpy](../numpy)
 <!-- [Apprendre l’analyse et la visualistion de données avec Python]() -->
 # **⚙️ Algorithmes et structures de données**
 [Les problèmes de recherche et planification](../algo/ResearchAndPlanningProblems)  
