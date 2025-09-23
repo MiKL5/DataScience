@@ -8,7 +8,7 @@ ___
 
 ## **📊 Data Science et Statistiques**
 [Probailité et Statistiques pour la Data Science et Business](productivityAndStatistics4DataScienceAndBusiness)
-## [Python pour la Data Science](naconda)
+## [Python pour la Data Science](Anaconda) <a href="docs"><img align="right" src="https://github.com/MiKL5/Python/raw/master/assets/logo/Python-logo-notext.svg" alt="Python" height="32px"></a></h1>
 ## **Langage R** <a href="https://github.com/MiKL5/"><img src="https://github.com/MiKL5/MiKL5/raw/master/assets/r.svg.png" alt="Langage R" align="right" height="32px"></a>
 [Premier projet](R_language/OC/firstProject)
 
