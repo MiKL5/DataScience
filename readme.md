@@ -1,7 +1,7 @@
 # Data Science <a href="https://github.com/MiKL5/"><img src="assets/atomicDs.png" alt="Data science" align="right" height="64px"></a>
 # **Projets**
-[Analyse des données de Netflix](anaconda/netflix)  
-[Analyse des données des universités américaines](anaconda/usUniversities)
+[Analyse des données de Netflix](Anaconda/netflix)  
+[Analyse des données des universités américaines](Anaconda/usUniversities)
 ___
 
 <div align="center"><a href="more"><img src="assets/zFKesVad0pW5X0jtsdSj--4j3ez.png" height="300" /></a></div>
