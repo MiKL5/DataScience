@@ -1,4 +1,4 @@
-<h1>🎓 Études des Universités Américaines<a href="../"><img align="right" src="../../../assets/logo/Jupyter.svg" alt="Jupyter" height="64px"></a></h1>
+<h1>🎓 Études des Universités Américaines<a href="../"><img align="right" src="https://github.com/MiKL5/Python/raw/master/assets/logo/Jupyter.svg" alt="Jupyter" height="64px"></a></h1>
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow) ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-green) ![Plotly](https://img.shields.io/badge/Plotly-Interactive-orange) <!--![Status](https://img.shields.io/badge/Status-In_Progress-red)-->
