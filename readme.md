@@ -14,6 +14,6 @@
 
 <div align="center"><hr><h2><b>🔗 Disciplines connexes</b></h2></div>
 
-🤖 [Intelligence artificielle](https://github.com/MiKL5/Artificial_Intelligence)  
-🤖🧠 [Machine Learning](https://github.com/MiKL5/machineLearning)  
-📊 [Business Intelligence](https://github.com/MiKL5/BI)
+🤖 [Intelligence artificielle](https://github.com/MiKL5/artificial-intelligence/)  
+🧠 [Machine Learning](https://github.com/MiKL5/machine-learning-projects/)  
+📊 [Business Intelligence](https://github.com/MiKL5/business-intelligence/)
